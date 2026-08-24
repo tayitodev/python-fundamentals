@@ -7,7 +7,7 @@ Repositorio de estudio y bitácora de ejercicios prácticos basados en el curso 
 - [x] **00_hello.py**: Introducción, sintaxis básica, comentarios y tipos de datos (`print`, `type`).
 - [x] **01_variables.py**: Declaración de variables, concatenación, funciones integradas, inputs y tipado dinámico.
 - [x] **02_operators.py**: Operadores aritméticos, comparativos y lógica booleana.
-- [ ] **03_strings.py**: Manejo y formateo de cadenas de texto.
+- [x] **03_strings.py**: Manejo y formateo de cadenas de texto.
 - [ ] **04_lists.py**: Listas y sus métodos principales.
 - [ ] **05_tuples.py**: Tuplas e inmutabilidad.
 - [ ] **06_sets.py**: Conjuntos y operaciones de sets.
