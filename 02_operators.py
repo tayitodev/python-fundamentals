@@ -31,7 +31,7 @@ print(3 != 4) # Diferente que
 
 print("Hola" > "Python") # Comparación de strings (se compara el valor ASCII de cada caracter)
 print("Hola" < "Python") # Comparación de strings (se compara el valor ASCII de cada caracter)
-print("aaaa:" >= "abaa") # Comparación de strings (se compara el valor ASCII de cada caracter) 
+print("aaaa:" >= "abaa") # Orden lexicográfico (se compara el valor ASCII de cada caracter)
 print("Hola" <= "Python") # Comparación de strings (se compara el valor ASCII de cada caracter)
 print ("Hola" == "Python") # Comparación de strings (se compara el valor ASCII de cada caracter)
 print("Hola" != "Python") # Comparación de strings (se compara el valor ASCII de cada caracter)

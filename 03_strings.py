@@ -16,7 +16,7 @@ print(my_new_line_string) # Salto de línea
 my_tab_string = "Este es un string\tcon un tabulador"
 print(my_tab_string) # Tabulador
 
-my_scape_string = "\\tEste es un string \\n escapado" 
+my_scape_string = "\tEste es un string \n escapado" 
 print(my_scape_string) # Escapando caracteres especiales
 
 # Formateo de strings
